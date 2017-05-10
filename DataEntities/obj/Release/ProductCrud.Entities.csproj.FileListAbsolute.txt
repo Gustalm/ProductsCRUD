@@ -1,0 +1,4 @@
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\bin\Release\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\bin\Release\DataEntities.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\obj\Release\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\obj\Release\DataEntities.pdb

@@ -1,0 +1,5 @@
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\obj\Debug\ProductCrud.Entities.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\DataEntities\obj\Debug\DataEntities.pdb

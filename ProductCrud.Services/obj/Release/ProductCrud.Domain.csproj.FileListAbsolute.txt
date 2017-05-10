@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\ProductCrud.Services.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\ProductCrud.Services.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\ProductCrud.Infrastructure.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\EntityFramework.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\DataEntities.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\ProductCrud.Infrastructure.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Release\EntityFramework.xml
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Release\ProductCrud.Domain.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Release\ProductCrud.Services.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Release\ProductCrud.Services.pdb

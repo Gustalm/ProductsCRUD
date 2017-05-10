@@ -1,0 +1,11 @@
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\ProductCrud.Services.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\ProductCrud.Services.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\DataEntities.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\DataEntities.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Debug\ProductCrud.Domain.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Debug\ProductCrud.Services.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\obj\Debug\ProductCrud.Services.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\ProductCrud.Infrastructure.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\EntityFramework.dll
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\ProductCrud.Infrastructure.pdb
+C:\Users\gusta\Documents\Projects\ProductCrud.GustavoAlmeida\ProductCrud.Services\bin\Debug\EntityFramework.xml

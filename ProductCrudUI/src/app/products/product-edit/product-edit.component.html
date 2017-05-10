@@ -1,0 +1,43 @@
+<div class="row">
+  <div class="col-xs-12">
+    <form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+      <!--formGroupName=""-->
+      <div class="row">
+        <div class="col-xs-12">
+          <button type="submit" class="btn btn-success" [disabled]="productForm.invalid">{{ this.editMode ? 'Editar' : 'Salvar' }}</button>
+          <button type="button" class="btn btn-warning" (click)="onCancel()">Cancelar</button>
+          <button type="button" class="btn btn-danger" *ngIf="editMode" [disabled]="!editMode" (click)="onDelete()">Deletar</button>
+        </div>
+      </div>
+      <hr>
+      <div class="row" *ngIf="editMode && editProduct.Id">
+        <div class="col-xs-3">
+          <div class="form-group">
+            <label for="name">Id do Produto</label>
+            <input type="text" class="form-control" value="{{editProduct.Id}}" readonly>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="form-group">
+            <label for="name">Nome do Produto</label>
+            <input type="text" formControlName="name" class="form-control">
+            <div *ngIf="productForm.get('name').invalid && productForm.get('name').touched" class="form-group alert alert-danger" name="nameErrors">
+              <p *ngIf="productForm.get('name').errors['required']">Nome é obrigatório</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="form-group">
+            <label for="description">Descrição do Produto</label>
+            <textarea rows="6" formControlName="description" class="form-control"></textarea>
+            <div class="form-group alert alert-danger" *ngIf="productForm.controls['description'].invalid && productForm.controls['description'].touched">Descrição é obrigatória</div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

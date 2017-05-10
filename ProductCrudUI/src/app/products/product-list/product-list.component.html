@@ -1,0 +1,17 @@
+<div class="row">
+  <!--I could do here with (click) and make a navigation through the component but routerlink is faster to do. actually did it just as an example-->
+  <!--<div class="col-xs-12"><button class="btn btn-success" (click)="onNewRecipe()">New Recipe</button></div>-->
+  <div class="col-xs-12"><button class="btn btn-success" [routerLink]="['new']">Adicionar Produto</button></div>
+</div>
+<hr>
+<div class="row">
+  <div class="col-xs-12">
+    <a *ngFor="let product of products; let index = i;" routerLinkActive="active" [routerLink]="[product.Id]" class="list-group-item clearfix">
+      <div class="pull-left">
+        <h4 class="list-group-item-heading">{{ product.Name }} </h4>
+        <p class="list-group-item-text">{{ product.Description }}</p>
+      </div>
+      <!--<span class="pull-right"><img [src]="recipe.imagePath" alt="{{ recipe.name }}" class="img-responsive" style="max-height: 50px;"></span>-->
+    </a>
+  </div>
+</div>
